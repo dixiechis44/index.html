@@ -30,24 +30,23 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>Sarah Gothard</h1>
+        <h1>Anna Grace Chisom</h1>
         <h2>Freshman in Greenville, South Carolina</h2>
         
-         <p>I am a freshman at Bob Jones University studying computer science with a minor in 
-            mathematics. I work for the Computer Science department as a lab monitor.</p>
+         <p>I am a freshman at Bob Jones University studying political science with a minor. I work for the BJA Middle School as a late stay worker.</p>
          <p>
-            I attend Cornerstone Baptist Church in Greer SC. My favorite website is  
-            <a href="https://mobilehymns.org/">here</a>, and you can email me  
-            <a href="mailto:sgothard@bju.edu">here</a>.
+            I attend Faith Baptist Church in Taylors, SC. My favorite website is  
+            <a href="https://pinterest.com/">here</a>, and you can email me  
+            <a href="mailto:achis159@students.bju.edu">here</a>.
          </p> 
          <p>
-            I enjoy listening to podcasts and having deep conversations.
+            I enjoy listening to music, playing piano, drinking coffee, and being on the SC Student Legislature.
          </p>
-        <h3>EDUCATION</h3>
-        Computer Science<br />
+        <h3>Social Studies</h3>
+        Political Science with a focus in American Government<br />
         Bob Jones University<br />
         Example image:
-        <img src="https://cs.bju.edu/media/bju-math-division/bju-computer-science/site-assets/images/cs-logo-main.png" />
+        <img src="https://https://www.bju.edu/academics/programs/political-science/" />
     </div>
 </body>
 </html>
